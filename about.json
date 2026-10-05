@@ -1,0 +1,16 @@
+{
+  "name": "মাহাথির",
+  "role": "এখানে আপনার পরিচয় লিখুন",
+  "bio": "এখানে আপনার সম্পর্কে কয়েক লাইন লিখুন।",
+  "photo": "me.jpg",
+  "links": [
+    {
+      "label": "Facebook",
+      "url": "https://facebook.com/"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com/"
+    }
+  ]
+}
